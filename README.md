@@ -4,6 +4,10 @@
 
 The Multilingual Coding Assistant is a web-based application that provides code suggestions and assistance in multiple languages. It utilizes the Cohere API to generate code snippets and respond to user queries. The application aims to assist developers by providing a real-time chat interface where users can input prompts and receive code-related responses.
 
+![Image](./pictures/Screenshot%202024-07-19%20194017.png)
+![Image](./pictures/Screenshot%202024-07-19%20194107.png)
+![Image](./pictures/Screenshot%202024-07-19%20194114.png)
+
 ## Features
 
 - **Real-Time Chat Interface**: Users can interact with the assistant through a chat interface.
